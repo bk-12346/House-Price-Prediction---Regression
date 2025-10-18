@@ -79,3 +79,6 @@ The Random Forest Regressor shows the best fit on the training data, as seen by 
 | **Linear Regression** | 0.1044 | 0.9388 | 0.1378 |
 | **Ridge Regression** | 0.1074 | 0.9352 | 0.1328 |
 | **RandomForest Regressor** | **0.0543** | **0.9845** | **0.1396** |
+
+![Model Comparison for Training RMSE and R-squared](model_comparison.png)
+
